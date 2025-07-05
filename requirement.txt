@@ -1,29 +1,30 @@
-fitz
-spacy
-re
-pdfplumber
-rapidfuzz
-sentence_transformers 
-requests
-bs4  
-pandas 
-tempfile
+# NLP and Transformers
+sentence-transformers
 flair
-streamlit 
-threading
-time
-random
-os
-datetime 
-requests 
-urllib3 
-langchain_community
-langchain_groq
-dotenv
-langchain
-langchain_huggingface
-langchain-text-splitters
-langchain_huggingface
-python-dotenv
+spacy
 
-langchain_chroma
+# PDF parsing
+pdfplumber
+PyMuPDF  # for 'fitz'
+
+# Fuzzy matching
+rapidfuzz
+
+# Web scraping
+requests
+beautifulsoup4
+urllib3
+
+# Utility and core Python packages
+pandas
+python-dotenv
+streamlit
+
+# LangChain and related integrations
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+
