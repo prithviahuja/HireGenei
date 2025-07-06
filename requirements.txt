@@ -29,5 +29,5 @@ langchain-chroma
 langchain-text-splitters
 
 # Fix sentencepiece compatibility
-sentencepiece==0.1.99 --no-binary sentencepiece
+sentencepiece>=0.1.96  # Allows pip to find a compatible pre-built wheel
 
