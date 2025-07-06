@@ -29,5 +29,5 @@ langchain-chroma
 langchain-text-splitters
 
 # Fix sentencepiece compatibility
-sentencepiece @ https://files.pythonhosted.org/packages/89/cb/af10db64ddf8b1d457ec1f36947cdd7bbd8c325594e58267d173b8d07384/sentencepiece-0.1.99-cp310-cp310-manylinux2014_x86_64.whl
+sentencepiece==0.1.99 --no-binary sentencepiece
 
