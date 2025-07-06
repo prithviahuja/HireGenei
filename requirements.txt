@@ -1,6 +1,6 @@
 # NLP and Transformers
-sentence-transformers
-flair
+sentence-transformers==2.2.2
+flair==0.12.2
 spacy
 
 # PDF parsing
@@ -28,3 +28,5 @@ langchain-huggingface
 langchain-chroma
 langchain-text-splitters
 
+# Fix sentencepiece compatibility
+sentencepiece==0.1.99
